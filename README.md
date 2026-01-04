@@ -96,6 +96,10 @@
 ```
 bash <(wget -qO- https://raw.githubusercontent.com/yydszg/argo/main/argox.sh)
 ```
+### 显示节点信息
+```
+bash <(wget -qO- https://raw.githubusercontent.com/yydszg/argo/main/argox.sh) -n
+```
 
   | Option 参数 | Remark 备注 |
   | -----------| ------ |
